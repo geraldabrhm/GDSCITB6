@@ -20,7 +20,7 @@ Developer Student Clubs are university-based community groups for students inter
 - <a href="https://github.com/suryaharahap">Surya Harahap </a>
 - 13519010@std.stei.itb.ac.id
 - rifqimatondang@gmail.com
-- geraldabraham16@gmail.com
+- <a href="https://github.com/geraldabrhm">Gerald Abraham Sianturi </a>
 - iftikariffat@gmail.com
 - <a href="https://github.com/farhanyusuf">Farhan Yusuf Akbar </a>
 - azmi.alfatihs@gmail.com
